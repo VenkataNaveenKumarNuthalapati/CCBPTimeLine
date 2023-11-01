@@ -1,0 +1,22 @@
+.p-image {
+  height: 170px;
+  width: 100%;
+}
+.card-container {
+  width: 100%;
+}
+.a {
+  color: blue;
+  font-weight: bold;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+.time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
